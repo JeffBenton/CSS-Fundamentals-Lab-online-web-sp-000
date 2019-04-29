@@ -29,5 +29,5 @@ figcaption {
   position: absolute;
   text-align: center;
   width: 800px;
-  left: 50%;
+  /*left: 50%;*/
 }
